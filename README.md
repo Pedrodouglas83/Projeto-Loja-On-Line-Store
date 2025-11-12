@@ -1,5 +1,12 @@
-<h1> Projeto Loja On line Store</h1>
-<br>
- Olá Pessoal, compartilho esse projeto loja loja On Line Store que aprendi canal do Dev Club, obrigado @Rodolfo Mori, onde foi usando as tecnologias, Html, CSS, Javascript, aonde coloquei um pouco tambem do meu conhecimento.
+# Projeto Loja On line Store
 
- 
+Projeto em HTML + CSS e Java aonde foi feito um site de uma Loja.
+
+Projeto desenvolvido durante o curso do DevClub.
+
+# Site 
+
+
+
+# Mobile 
+
