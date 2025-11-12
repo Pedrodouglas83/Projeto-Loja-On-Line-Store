@@ -1,4 +1,4 @@
-# Projeto Loja On line Store
+# Loja On line Store
 
 Projeto em HTML + CSS e Java aonde foi feito um site de uma Loja.
 
